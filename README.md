@@ -1,0 +1,1 @@
+Copy of https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/tree/master/1-WebApp-OIDC/1-1-MyOrg for practice with Azure
